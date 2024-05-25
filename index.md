@@ -12,7 +12,7 @@
     UNDER GRADUATION 
 
     ALVA’S INSTITUTE OF ENGINEERING AND TECHNOLOGY Currently pursuing 
-    third year in Information Science Engineering Course
+    third year in Computer Science Engineering Course
 				
 				
     DEPLOMA   
