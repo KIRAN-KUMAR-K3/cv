@@ -76,8 +76,6 @@
 
     Image Color Compression using K-Means (GitHub: Kiran-Kumar-K3)
     
-    Student-Mentor App using Streamlit
-    
     Railway Administration System with Train Booking & Management
     
     Orphanage Database Management System with Admin Login & Donations
